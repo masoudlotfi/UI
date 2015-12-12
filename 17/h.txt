@@ -1,0 +1,30 @@
+<html>
+<head>
+<style>
+div{
+width:200px;
+height:200px;
+background-color:red;
+animation:test 5s;
+-webkit-animation:test 5s;
+
+}
+
+@keyframes test{
+from{margin-left:0px;}
+to{margin-left:300px;}
+
+}
+@-webkit-keyframes test{
+from{margin-left:0px;}
+to{margin-left:300px;}
+
+}
+
+</style>
+<body>
+<div>
+udshiusih
+</div>
+</body>
+</html>

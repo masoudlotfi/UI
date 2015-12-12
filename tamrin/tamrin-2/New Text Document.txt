@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+home
+</title>
+</head>
+<body>
+<img src="Tulips.jpg" alt="gol">
+</body>
+</html>
